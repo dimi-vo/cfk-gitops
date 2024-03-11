@@ -11,7 +11,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: overlays/dev
-    repoURL: 'https://github.com/sotojuan2/cfk-gitops'
+    repoURL: 'https://github.com/dimi-vo/cfk-gitops.git'
     targetRevision: HEAD
   sources: []
   project: default
