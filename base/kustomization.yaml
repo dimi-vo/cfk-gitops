@@ -4,5 +4,6 @@ resources:
 - credentialsealed.json
 - ca-pair-sslcerts-sealed.json
 - tls-kafka-sealed.json
+- mydummysecret.yaml
 
 

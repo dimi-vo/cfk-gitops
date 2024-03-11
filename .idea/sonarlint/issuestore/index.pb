@@ -13,3 +13,24 @@ I
 cfk.yaml,d/f/dfdab5aa3f306bdf1d18ede2f93a909208e1542b
 >
 cfk-helm2.yaml,d/c/dc7993cceb270096d0762f22abfb08779540a76f
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+P
+ overlays/dev/mysealedsecret.json,c/7/c7493039b7d15b7f3b02c0dc4e5d55d0ba8ed81e
+H
+base/mysealedsecret.json,b/2/b244d4f87b062a0851078af5279a8030cedfe1af
+K
+secrets/mysealedsecret.json,2/5/250fd2d52b5fdc52a1f739f0609a1f02bd7226ea
+G
+base/kustomization.yaml,7/0/70469a24f22f5c438557ff847329db7d2ed68872
+J
+base/credentialsealed.json,d/1/d1d1d7a421e4c4439b43580b7852ce8f3e969769
+R
+"overlays/dev/credentialsealed.json,a/9/a98c16b2e056d0c60c09b5df07397dcb0e79a156
+O
+overlays/dev/mydummysecret.json,2/2/22417d98f413e171273b5cb8a011a5ba2a0f7633
+G
+base/mydummysecret.json,c/f/cf0a85cd0442b29b71e6ff45355dd877b12bdbf5
+B
+mydummysecret.yaml,f/a/fa7f32e1285d300a0146f870e51de5580e349b52
