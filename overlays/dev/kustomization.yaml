@@ -22,3 +22,5 @@ patches:
     kind: ControlCenter
 resources:
 - ../../base
+commonAnnotations:
+  sample-go/version: v1
