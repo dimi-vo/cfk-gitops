@@ -22,5 +22,6 @@ patches:
     kind: ControlCenter
 resources:
 - ../../base
+- dummy-configmap.yaml
 commonAnnotations:
   sample-go/version: v1
